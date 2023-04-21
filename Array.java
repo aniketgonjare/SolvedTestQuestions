@@ -22,7 +22,6 @@ public class Array {
 			for(int j=0;j<arr1.length;j++)
 			{
 				num1=arr1[j]*j+num1;
-				num2++;
 			}
 			num3=arr1[0];
 			for(int k=0;k<arr1.length;k++)
